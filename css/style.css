@@ -1,0 +1,10 @@
+.clearfix::after {
+  display: block;
+  content: "";
+  clear: both;
+}
+.nav::after {
+  display: block;
+  content: "";
+  clear: both;
+}
